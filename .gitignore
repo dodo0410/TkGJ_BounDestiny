@@ -1,10 +1,6 @@
+*.log
+*.ini
+*.bin
+Saved/*
+Config/*
 
-Saved/Config/WindowsEditor/Engine.ini
-Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-
-Saved/Autosaves/PackageRestoreData.json
-
-Saved/AutoScreenshot.png
-
-Saved/Logs/TkGJ_BounDestiny.log
